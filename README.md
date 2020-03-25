@@ -1,6 +1,6 @@
 # Linux_Module_1
 The updated python version of Linux Modules
-## A Note for Instructors ##
+## A Note to Instructors ##
 
 The material for this module is designed to introduce students to Linux, this is the first step and it will require alot of organized intruction. Some lesson plans are attached in this github under materials/
 
