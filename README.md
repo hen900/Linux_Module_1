@@ -6,7 +6,7 @@ The material for this module is designed to introduce students to Linux, this is
 
 ## Info ## 
 
-Source code for the first linux training module. This is the scoring system backened that is to be installed on a Linux Image. This is only a scoring system so "Tasks" or points need to be installed manually. Copies of images with this code copied onto them exist in the Loyola Cyber Lab so this code only serves as reference.
+Source code for the first linux training module. This is the scoring system backened that is to be installed on a Linux Image. This is only a scoring system so "Tasks" or points need to be installed manually. Copies of complete modules already exist on the Loyola Cyber Lab share so this code only serves as reference.
 
 ## Installation ##
 An install script will "compile" the scorebot and create an init job for it
